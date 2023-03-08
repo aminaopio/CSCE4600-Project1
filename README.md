@@ -1,4 +1,4 @@
-# csce4600
+# CSCE600
 Operating Systems
 
 Project 1: Process Scheduler 
