@@ -1,4 +1,4 @@
-# CSCE4600
+# CSCE 4600
 ## **Operating Systems**
 
 ## [Project 1: Process Scheduler](https://github.com/aminaopio/csce4600/tree/main/Project1)
